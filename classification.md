@@ -1,7 +1,13 @@
 
+<<<<<<< HEAD
 # Questions
 
 ## By Angel Chi
+=======
+# Questions.
+
+## By Angel Chi.
+>>>>>>> d76270d5e726daf96d3d207b76fe2641c25d3729
 
 # Silver - Exam Style Questions
 
@@ -19,7 +25,10 @@ Is an executable binary code produced either by a compiler, interpreter or assem
 
 They can be Python, Visual Basic, Java, C, C++, SQL and many more. but, like an example there is an image of Python code.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d76270d5e726daf96d3d207b76fe2641c25d3729
 # Gold - Answer the following questions
 
 ## Describe three differences between low-level language and high-level languages? (6 Marks)
