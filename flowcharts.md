@@ -8,7 +8,8 @@
 
 ## 3.
 
-###Three modified flowcharts.
+### Three modified flowcharts.
+
 
 ![DDF _1](https://user-images.githubusercontent.com/83776637/119243492-f2b78280-bb2c-11eb-9661-09b3e29e6bfc.jpeg)
 
@@ -16,8 +17,12 @@
 
 ![DD_3](https://user-images.githubusercontent.com/83776637/119243494-f519dc80-bb2c-11eb-807e-074011356d86.jpeg)
 
+Programiz.(2021, May 22). Flowchart in programing. Programiz. Obtained from https://www.programiz.com/article/flowchart-programming
 
-###Four original flowcharts.
+
+
+### Four original flowcharts.
+
 
 ![DDF 1](https://user-images.githubusercontent.com/83776637/119243531-33af9700-bb2d-11eb-81c0-035efca26eb7.jpeg)
 
