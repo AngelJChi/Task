@@ -1,7 +1,7 @@
 
-# Questions
+# Questions.
 
-## By Angel Chi
+## By Angel Chi.
 
 # Silver - Exam Style Questions
 
