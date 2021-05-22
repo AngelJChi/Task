@@ -18,7 +18,6 @@ Is an executable binary code produced either by a compiler, interpreter or assem
 ## Give an example of a high-level language? (1 Mark)
 
 They can be Python, Visual Basic, Java, C, C++, SQL and many more. but, like an example there is an image of Python code.
-<img src="descargas/imagen1.png" alt="imagen python" />
 
 # Gold - Answer the following questions
 
